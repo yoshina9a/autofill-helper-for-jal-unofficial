@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Autofill helper icon">
+  <rect width="128" height="128" rx="24" fill="#f7f7f4"/>
+  <rect x="22" y="33" width="84" height="62" rx="10" fill="#ffffff" stroke="#1f2937" stroke-width="5"/>
+  <rect x="35" y="48" width="58" height="10" rx="5" fill="#d8dee8"/>
+  <rect x="35" y="68" width="35" height="10" rx="5" fill="#d8dee8"/>
+  <circle cx="91" cy="77" r="23" fill="#2563eb"/>
+  <path d="M79 77.5l8.2 8.2L103 69.5" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
